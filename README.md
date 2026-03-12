@@ -2,7 +2,7 @@
 <h3 align="center">A passionate and enthusiastic frontend(ReactJS) developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif">
 
-- 🔭 I’m currently working on **Trifacta Project** using **React, Redux**
+- 🔭 I’m currently working on **Metlife Project** using **React, Redux, Typescript**
 
 - 🌱 I’m currently learning **Vue**
 
